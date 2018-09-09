@@ -9,9 +9,9 @@
 
 ## Avito Parser
 
-https://wampi.ru/image/xqpP7l
-https://wampi.ru/image/xqpSAq
-https://wampi.ru/image/xqplHz
+- https://wampi.ru/image/xqpP7l
+- https://wampi.ru/image/xqpSAq
+- https://wampi.ru/image/xqplHz
 
 
 ## About Laravel
